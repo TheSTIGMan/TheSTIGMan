@@ -1,45 +1,52 @@
+<div align="center">
+
 # user@server:~$ sudo TheSTIGMan
 
-I build hands-on cybersecurity projects focused on **vulnerability management**, **threat hunting**, and **security operations**.
+`I STIG. You STIG. We all STIG for DISA STIG.`
 
-**Links:**  
-- 🌐 Portfolio: [View my portfolio](https://YOUR-PORTFOLIO-LINK-HERE.com)  
-- 💼 LinkedIn: [Connect on LinkedIn](https://YOUR-LINKEDIN-LINK-HERE.com)  
-- 📺 YouTube: [Watch my videos](https://YOUR-YOUTUBE-LINK-HERE.com)  
-- 📧 Email: [Email me](mailto:YOUR-EMAIL-HERE)
+[Portfolio](https://YOUR-SITE-HERE) •
+[LinkedIn](https://YOUR-LINKEDIN-HERE) •
+[Email](mailto:YOUR-EMAIL-HERE)
 
----
-
-## Featured Projects (my work)
-
-### 1) Vulnerability Management Program (Case Study)
-**Tools:** Nessus/Tenable, Windows, remediation workflow  
-**What I show:** Findings → prioritization → remediation → verification → report  
-➡️ Repo: [View project repository](https://github.com/YOUR-REPO-NAME-HERE)
+</div>
 
 ---
 
-### 2) Programmatic Vulnerability Remediation (PowerShell/Bash)
-**Tools:** PowerShell, Bash, Windows/Linux  
-**What I show:** Scripts + before/after evidence + verification steps  
-➡️ Repo: [View project repository](https://github.com/YOUR-REPO-NAME-HERE)
+## $ whoami
+Blue-team focused cybersecurity builder with a Linux-first mindset. I create hands-on projects in **threat hunting**, **detection engineering**, and **vulnerability management**, with clear evidence and reproducible steps.
 
 ---
 
-### 3) Threat Hunting Scenario (Suspicious Activity / Tor Example)
-**Tools:** Microsoft Sentinel / KQL (or your tooling)  
-**What I show:** Hypothesis → queries → timeline → findings → detection ideas  
-➡️ Repo: [View project repository](https://github.com/YOUR-REPO-NAME-HERE)
+## $ ls ~/featured_projects
+- 🔍 **Threat Hunting / Detections** — KQL/Sigma style logic, investigations, write-ups  
+  → [threat-hunting-labs](https://github.com/YOUR-USERNAME/threat-hunting-labs)
+
+- 🛠 **Linux Security Hardening** — baseline config, audit checks, verification  
+  → [linux-hardening-lab](https://github.com/YOUR-USERNAME/linux-hardening-lab)
+
+- ⚙️ **Automation** — bash/python tooling for repeatable checks + remediation  
+  → [security-automation](https://github.com/YOUR-USERNAME/security-automation)
+
+- 🧱 **STIG / Compliance Thinking** — evidence-driven hardening + validation  
+  → [stig-notes-and-labs](https://github.com/YOUR-USERNAME/stig-notes-and-labs)
 
 ---
 
-## What I’m focused on right now
-- Windows hardening / STIG-style compliance thinking  
-- Detection + threat hunting write-ups with evidence  
-- Automation (PowerShell) for repeatable remediation and validation  
+## $ cat ~/skills.txt
+- **Linux:** Ubuntu/RHEL, systemd, permissions, logs, SSH
+- **Blue Team:** triage, investigations, detection logic, reporting
+- **Tools:** (add yours) Sentinel/KQL, Defender, Zeek, Suricata, Splunk, ELK
+- **Scripting:** Bash, Python, PowerShell
 
 ---
 
-## Contact
-Best way to reach me: [LinkedIn](https://YOUR-LINKEDIN-LINK-HERE)  
-Or email: [YOUR-EMAIL-HERE](mailto:YOUR-EMAIL-HERE)
+## $ tail -n 5 ~/now.log
+- Building reproducible labs with clean documentation
+- Writing detections and testing them against realistic scenarios
+- Improving automation for validation and evidence collection
+
+---
+
+## $ ping -c 1 contact
+- LinkedIn: [Message me](https://YOUR-LINKEDIN-HERE)  
+- Email: [YOUR-EMAIL-HERE](mailto:YOUR-EMAIL-HERE)
