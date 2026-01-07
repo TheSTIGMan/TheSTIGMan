@@ -17,7 +17,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](YOUR-LINKEDIN-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/avdaniel/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL-HERE)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=safari&logoColor=white)](YOUR-PORTFOLIO-HERE)
 
@@ -44,7 +44,7 @@ TheSTIGMan@GitHub:~$ whoami
 
 User: TheSTIGMan
 Status: Student & Career Changer
-Education: Bachelor of Science in Cybersecurity & Information Assurance
+Education: Bachelor of Science in Cybersecurity & Information Assurance, Western Governors University
 Specialty: Linux System Hardening | DISA STIGs | Blue Team Operations
 Mission: Building secure, compliant systems one STIG at a time
 
@@ -82,30 +82,30 @@ TO SET UP YOUR CERTIFICATIONS:
 -->
 
 <!-- CompTIA Certifications -->
-<a href="YOUR-CREDLY-PENTEST+-LINK" title="Verify CompTIA PenTest+ on Credly">
-  <img src="YOUR-CREDLY-PENTEST+-IMAGE" alt="CompTIA PenTest+" width="120"/>
+<a href="https://www.credly.com/badges/d4a28139-7d55-40b1-9057-9b977c25c225/public_url" title="Verify CompTIA PenTest+ on Credly">
+  <img src="https://images.credly.com/images/c7ac176b-15a3-4726-827a-e8cee8fe44dc/blob" alt="CompTIA PenTest+" width="120"/>
 </a>
-<a href="YOUR-CREDLY-CYSA+-LINK" title="Verify CompTIA CySA+ on Credly">
-  <img src="YOUR-CREDLY-CYSA+-IMAGE" alt="CompTIA CySA+" width="120"/>
+<a href="https://www.credly.com/badges/43292f0c-7ed7-4daa-8ce2-a1f9563540fc/public_url" title="Verify CompTIA CySA+ on Credly">
+  <img src="https://images.credly.com/size/680x680/images/dcd99b5b-da24-40a6-9364-62126d590c37/blob" alt="CompTIA CySA+" width="120"/>
 </a>
-<a href="YOUR-CREDLY-SECURITY+-LINK" title="Verify CompTIA Security+ on Credly">
-  <img src="YOUR-CREDLY-SECURITY+-IMAGE" alt="CompTIA Security+" width="120"/>
+<a href="https://www.credly.com/badges/b9f117ef-a9a2-44e7-b7b2-4aa325b2343b/public_url" title="Verify CompTIA Security+ on Credly">
+  <img src="https://images.credly.com/size/680x680/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" alt="CompTIA Security+" width="120"/>
 </a>
-<a href="YOUR-CREDLY-NETWORK+-LINK" title="Verify CompTIA Network+ on Credly">
-  <img src="YOUR-CREDLY-NETWORK+-IMAGE" alt="CompTIA Network+" width="120"/>
+<a href="https://www.credly.com/badges/7be6e919-884d-487c-a29a-614fd6789be2/public_url" title="Verify CompTIA Network+ on Credly">
+  <img src="https://images.credly.com/size/680x680/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" alt="CompTIA Network+" width="120"/>
 </a>
-<a href="YOUR-CREDLY-APLUS-LINK" title="Verify CompTIA A+ on Credly">
-  <img src="YOUR-CREDLY-APLUS-IMAGE" alt="CompTIA A+" width="120"/>
+<a href="https://www.credly.com/badges/cfaa55a3-22f0-4055-b61e-1121474c5747/public_url" title="Verify CompTIA A+ on Credly">
+  <img src="https://images.credly.com/size/680x680/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob" alt="CompTIA A+" width="120"/>
 </a>
 
 <br><br>
 
 <!-- TCM Security & Microsoft Certifications -->
-<a href="YOUR-TCM-PHDA-LINK" title="Verify TCM Security PHDA">
-  <img src="YOUR-TCM-PHDA-IMAGE" alt="TCM Security Practical Help Desk Associate" width="120"/>
+<a href="https://certified.tcm-sec.com/ffe00ac9-ef0c-4673-af71-0d0780364bff#acc.mGEvp96y" title="Verify TCM Security PHDA">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/141019420" alt="TCM Security Practical Help Desk Associate" width="120"/>
 </a>
-<a href="YOUR-AZURE-AI-LINK" title="Verify Microsoft Azure AI Fundamentals on Credly">
-  <img src="YOUR-AZURE-AI-IMAGE" alt="Microsoft Azure AI Fundamentals" width="120"/>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/DanielAvila-3677/910A3B96BB6CE56?sharingId=9D0A6C3B1827A572" title="Verify Microsoft Azure AI Fundamentals on Credly">
+  <img src="https://images.credly.com/images/0ff13db7-4089-4287-a23c-114cac456425/converted20260107-30-x01y1x.png" alt="Microsoft Azure AI Fundamentals" width="120"/>
 </a>
 
 </div>
@@ -131,7 +131,7 @@ TO SET UP YOUR CERTIFICATIONS:
 </div>
 
 ```plaintext
-🎯 Currently pursuing: [Your next certification - RHCSA? OSCP? CEH?]
+🎯 Currently pursuing: Linux+, PJPT, RHCSA
 📅 Career Path: Building expertise in offensive & defensive security
 ```
 
@@ -337,7 +337,7 @@ TheSTIGMan@GitHub:~$ netcat -lv contact_methods
 
 | Protocol | Address | Status |
 |----------|---------|--------|
-| 💼 LinkedIn | [Connect with me](YOUR-LINKEDIN-HERE) | `LISTENING` |
+| 💼 LinkedIn | [Connect with me](https://www.linkedin.com/in/avdaniel/) | `LISTENING` |
 | 📧 Email | [YOUR-EMAIL-HERE](mailto:YOUR-EMAIL-HERE) | `LISTENING` |
 | 🌐 Portfolio | [Visit site](YOUR-PORTFOLIO-HERE) | `LISTENING` |
 | 💬 GitHub | [@TheSTIGMan](https://github.com/TheSTIGMan) | `ACTIVE` |
