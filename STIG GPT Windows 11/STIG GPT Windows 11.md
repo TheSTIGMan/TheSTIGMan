@@ -3,7 +3,7 @@
 
 **Developer:** Daniel Avila - TheSTIGMan<br>
 **Focus:** Cybersecurity Education, DISA STIG Compliance Automation  
-**Technology Stack:** OpenAI GPT-5, live data retrieval from stigaview.com, browser integration
+**Technology Stack:** OpenAI GPT-5, Prompt engineering, live data retrieval from stigaview.com, browser integration<br>
 
 ## 📘 Overview
 
@@ -125,3 +125,4 @@ The key to success was treating the GPT less like a “chatbot” and more like 
 
 #CyberSecurity #STIG #Windows11 #Compliance #AIinEducation #OpenAI #GPT5 #DISA #CyberAwareness
 
+🔗 [Open ChatGPT — STIG GPT (Windows 11)](https://chatgpt.com/g/g-696332da497c81918b25d804ad6d2db9-stig-gpt-windows-11)
