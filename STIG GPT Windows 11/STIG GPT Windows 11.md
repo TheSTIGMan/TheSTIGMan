@@ -1,4 +1,5 @@
-# 🛡️ STIG GPT (Windows 11)
+# 🛡️ STIG GPT (Windows 11) 
+<img src="assets/STIG-GPT-logo.png" alt="Logo" width="360" />
 
 **Developer:** Daniel Avila - TheSTIGMan<br>
 **Focus:** Cybersecurity Education, DISA STIG Compliance Automation  
@@ -57,11 +58,16 @@ By using natural language explanations and real-world analogies, it encourages c
 
 ## 📚 Example Interaction
 
+![STIG GPT Banner](assets/stig-gpt.png)
+
 **User:**
 ```
 WN11-00-000220
 ```
-
+![bluetooth stig](assets/bluetooth-stig.png)
+![bluetooth verify](assets/bluetooth-verify.png)
+![bluetooth fix](assets/bluetooth-fix.png)
+![bluetooth example](assets/bluetooth-ex.png)
 **STIG GPT Output:**
 
 **Rule Title:** [Exact Title from stigaview.com]
