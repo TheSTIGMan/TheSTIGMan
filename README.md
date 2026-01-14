@@ -173,15 +173,15 @@ Complete RHEL 8/9 hardening guide aligned with CIS & DISA standards
 
 ---
 
-#### **[stig-compliance-toolkit](https://github.com/TheSTIGMan/stig-compliance-toolkit)** `[Planned]`
+#### [STIG GPT (Windows 11)](STIG%20GPT%20Windows%2011/STIG%20GPT%20Windows%2011.md)
 ```bash
-drwxr-xr-x  3 root root 4096 Jan  7 2026 .
+drwxr-xr-x  3 root root 4096 Jan  14 2026 .
 ```
-CLI toolkit for STIG compliance management
-- 🎯 Parse and process STIG XCCDF files
-- 📈 Generate compliance dashboards
-- 🔍 Gap analysis reporting
-- 📝 Evidence collection automation
+Custom GPT tutor for Windows 11 DISA STIG education.
+- 🛡️ Explains complex STIG rules in plain English.
+- 🔍 Retrieves live data from stigaview.com for accuracy.
+- 🧠 Teaches what each control does, why it matters, and how to fix it.
+- 🧩 Designed for cybersecurity students and training labs.
 
 ---
 
