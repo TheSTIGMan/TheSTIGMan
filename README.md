@@ -45,6 +45,7 @@ TheSTIGMan@GitHub:~$ whoami
 User: TheSTIGMan
 Status: Student & Career Changer
 Education: Bachelor of Science in Cybersecurity & Information Assurance, Western Governors University
+           Master of Aviation Cybersecurity, Embry-Riddle Aeronautical Unversity (In Progress)
 Specialty: Linux System Hardening | DISA STIGs | Blue Team Operations
 Mission: Building secure, compliant systems one STIG at a time
 
@@ -151,7 +152,7 @@ TheSTIGMan@GitHub:~$ ls -la ~/projects/
 
 #### **[linux-stig-automation](https://github.com/TheSTIGMan/linux-stig-automation)** `[In Development]`
 ```bash
-drwxr-xr-x  5 root root 4096 Jan  7 2026 .
+drwxr-xr-x  5 root root 4096 Feb 27 2026 .
 ```
 Automated DISA STIG compliance checking and remediation for RHEL/Ubuntu systems
 - ✅ Automated audit scripts for 50+ STIG controls
@@ -185,15 +186,14 @@ Custom GPT tutor for Windows 11 DISA STIG education.
 
 ---
 
-#### **[security-audit-scripts](https://github.com/TheSTIGMan/security-audit-scripts)** `[Planned]`
+#### [vulnerability-audits-remediation](https://github.com/TheSTIGMan/vulnerability-audits-remediation/blob/main/VulnerabilityAssessmentRemediationReportDA-01.md)
 ```bash
-drwxr-xr-x  6 root root 4096 Jan  7 2026 .
+drwxr-xr-x  6 root root 4096 Feb 27 2026 .
 ```
-Collection of security audit and validation scripts
-- 🔐 SSH configuration auditor
-- 👥 User/group permission scanner
-- 📁 File integrity monitoring
-- 🕵️ Suspicious activity detector
+Collection of vulnerability audits and remediations
+- Vulnerability scans using Tenable Nessus
+- Authenticated scans
+- Unauthenticated scans
 
 </details>
 
