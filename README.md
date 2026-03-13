@@ -162,15 +162,15 @@ Automated DISA STIG compliance checking and remediation for RHEL/Ubuntu systems
 
 ---
 
-#### **[rhel-hardening-baseline](https://github.com/TheSTIGMan/rhel-hardening-baseline)** `[Coming Soon]`
+#### **[rhel8-STIG_hardening-vulnerability-report](https://github.com/TheSTIGMan/TheSTIGMan/blob/main/RHEL8STIG_VulnerabilityReport/RHEL8%20STIG%20and%20Vulnerability%20Report.md)**
 ```bash
-drwxr-xr-x  4 root root 4096 Jan  7 2026 .
+drwxr-xr-x  4 root root 4096 Mar 12 2026 .
 ```
-Complete RHEL 8/9 hardening guide aligned with CIS & DISA standards
-- 📋 Step-by-step hardening procedures
-- 🔒 SELinux policy configurations
-- 🔥 Firewall rule templates
-- 📊 Validation test suites
+RHEL 8 hardening project aligned with DISA standards
+- DISA STIG compliance scan for RHEL 8
+- Authenticated Scan via Tenable
+- STIG Implementation & Vulnerability Remediation
+- Failed Login Investigation with KQL
 
 ---
 
