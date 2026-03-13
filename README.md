@@ -223,10 +223,10 @@ Languages = Bash, Python, PowerShell
 Use_Cases = Compliance automation, security auditing, reporting
 
 [Security Tools]
-Assessment = OpenSCAP, SCAP Compliance Checker, Lynis
-Monitoring = auditd, AIDE, Tripwire, rsyslog
-Network = iptables, firewalld, nmap, tcpdump
-Other = Ansible, Git, Wireshark
+Tenable Nessus
+Microsoft Defender for Endpoint
+Microsoft Sentinel
+Kusto Query Language (KQL)
 
 [Blue Team Operations]
 Skills = Threat detection, log analysis, incident response procedures
@@ -239,9 +239,6 @@ Learning = Detection engineering, SIEM queries, threat hunting
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=redhat&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 </div>
 
@@ -259,23 +256,13 @@ TheSTIGMan@GitHub:~$ tail -f ~/current_focus.log
 
 ```log
 [2026-01-07 14:30:22] Building reproducible STIG compliance labs
-[2026-01-07 14:30:22] Automating security configuration validation
 [2026-01-07 14:30:22] Documenting hardening procedures with clear evidence
-[2026-01-07 14:30:22] Contributing to open-source security tooling
-[2026-01-07 14:30:22] Writing technical documentation for compliance workflows
 ```
 
 ### 🎯 Short-term Goals
-- [ ] Complete automated STIG checker for RHEL 8
-- [ ] Publish 3 comprehensive hardening guides
-- [ ] Contribute to 2 open-source security projects
-- [ ] Document 20 compliance validation procedures
 - [ ] Build portfolio demonstrating security engineering skills
 
 ### 🚀 Learning Path
-- Advanced Linux security (SELinux, AppArmor)
-- Infrastructure as Code (Terraform, Ansible)
-- Container security (Docker, Kubernetes hardening)
 - Detection engineering and threat hunting
 
 </details>
@@ -292,23 +279,23 @@ TheSTIGMan@GitHub:~$ cat /var/log/approach.log
 
 ```markdown
 ┌─ Security Approach ──────────────────────────────────────┐
-│                                                           │
+│                                                          │
 │  "Security through proper configuration, not obscurity"  │
-│                                                           │
-│  Core Principles:                                         │
-│  ├─ Configuration as Code                                │
+│                                                          │
+│  Core Principles:                                        │
 │  ├─ Automated validation & testing                       │
 │  ├─ Documentation-driven development                     │
-│  ├─ Evidence-based compliance                            │
-│  └─ Continuous improvement mindset                       │
-│                                                           │
+│  └─ Continuous improvement mindset                       |
+│                                                          |
+│                                                          │
+│                                                          │
 │  Every project includes:                                 │
 │  • Clear documentation                                   │
 │  • Reproducible steps                                    │
 │  • Testing procedures                                    │
 │  • Lessons learned                                       │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 ```
 
 </details>
