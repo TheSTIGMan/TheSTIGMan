@@ -1,86 +1,67 @@
 # TheSTIGMan@GitHub:~$ █
 
-```ascii
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║   ███████╗████████╗██╗ ██████╗     ███╗   ███╗ █████╗ ███╗   ██╗  ║
-║   ██╔════╝╚══██╔══╝██║██╔════╝     ████╗ ████║██╔══██╗████╗  ██║  ║
-║   ███████╗   ██║   ██║██║  ███╗    ██╔████╔██║███████║██╔██╗ ██║  ║
-║   ╚════██║   ██║   ██║██║   ██║    ██║╚██╔╝██║██╔══██║██║╚██╗██║  ║
-║   ███████║   ██║   ██║╚██████╔╝    ██║ ╚═╝ ██║██║  ██║██║ ╚████║  ║
-║   ╚══════╝   ╚═╝   ╚═╝ ╚═════╝     ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝  ║
-║                                                                   ║
-║          "I STIG. You STIG. We all STIG for DISA STIG."           ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
+```
++===================================================================+
+|  PRE-FLIGHT CHECKLIST :: SYSTEM ID                                |
+|                                                                   |
+|   ███████ ████████ ██  ██████      ███    ███  █████  ███    ██   |
+|   ██         ██    ██ ██           ████  ████ ██   ██ ████   ██   |
+|   ███████    ██    ██ ██   ███     ██ ████ ██ ███████ ██ ██  ██   |
+|        ██    ██    ██ ██    ██     ██  ██  ██ ██   ██ ██  ██ ██   |
+|   ███████    ██    ██  ██████      ██      ██ ██   ██ ██   ████   |
+|                                                                   |
+|   [ DISA STIG Specialist ]          CLEARANCE: SECRET             |
+|   "I STIG. You STIG. We all STIG for DISA STIG."                  |
++===================================================================+
 ```
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/avdaniel/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL-HERE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=safari&logoColor=white)](YOUR-PORTFOLIO-HERE)
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=TheSTIGMan.TheSTIGMan)
-![GitHub followers](https://img.shields.io/github/followers/TheSTIGMan?style=social)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=TheSTIGMan.TheSTIGMan&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/TheSTIGMan?style=for-the-badge&logo=github&color=00ff00&labelColor=0d1117)
+![Certifications](https://img.shields.io/badge/CERTS-7-00C7B7?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d1117)
+![Status](https://img.shields.io/badge/SYSTEMS-HARDENED-success?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117)
 
 </div>
 
 ---
 
-## 💻 Terminal Session Started...
-
 ```bash
-TheSTIGMan@GitHub:~$ whoami
+root@TheSTIGMan:~$ cat about.me
 ```
-
-<details open>
-<summary><b>👤 System Administrator Profile</b></summary>
-<br>
 
 ```plaintext
-┌─[TheSTIGMan@CyberSec]─[~]
+┌─[root@TheSTIGMan]─[~]
 └──╼ $ cat about.me
 
-User: TheSTIGMan
-Status: Student & Career Changer
-Education: Bachelor of Science in Cybersecurity & Information Assurance, Western Governors University
-           Master of Aviation Cybersecurity, Embry-Riddle Aeronautical Unversity (In Progress)
-Specialty: Linux System Hardening | DISA STIGs | Blue Team Operations
-Mission: Building secure, compliant systems one STIG at a time
+Callsign ........ TheSTIGMan
+Role ............ Cybersecurity Engineer
+Education ....... BS Cybersecurity & Information Assurance — WGU
+                  MS Aviation Cybersecurity — ERAU (In Progress)
+Background ...... Former military aircraft maintenance technician —
+                  brings hardware-level systems thinking to cyber compliance
+Specialty ....... DISA STIG implementation, Linux hardening, blue team ops
 
-Current Focus:
-  ├── DISA STIG Implementation & Automation
-  ├── Linux Hardening (RHEL/Ubuntu)
-  ├── Compliance Validation & Testing
-  └── Security Configuration Baselines
+Current Mission:
+  ├── STIG automation & compliance validation
+  ├── RHEL/Ubuntu hardening at scale
+  ├── Security configuration baselines
+  └── Clearance: SECRET
+
+> I harden systems for a living. STIG by STIG, control by control.
 ```
-
-🎓 **Background:** Transitioning into cybersecurity with hands-on focus on system security  
-🛡️ **Philosophy:** Defense in depth through proper configuration and continuous validation  
-📚 **Learning:** Converting academic knowledge into practical, deployable security solutions
 
 ---
 
-### 🏆 Certifications & Credentials
+<details>
+<summary><b>🏆 Certifications & Credentials</b></summary>
+<br>
 
 ```bash
-┌─[Certifications]─[/home/TheSTIGMan/.credentials]
-└──╼ $ ls -lh *.badge
+root@TheSTIGMan:~$ ls -lh ~/.credentials/*.badge
 ```
 
 <div align="center">
-
-<!-- 
-TO SET UP YOUR CERTIFICATIONS:
-1. Go to Credly.com and log in
-2. For EACH certification below:
-   - Click on the badge
-   - Right-click the badge image → "Copy Image Address"
-   - Copy the page URL from your browser
-3. Replace YOUR-CREDLY-PENTEST+-IMAGE and YOUR-CREDLY-PENTEST+-LINK with your actual URLs
-4. Repeat for all certifications
--->
 
 <!-- CompTIA Certifications -->
 <a href="https://www.credly.com/badges/d4a28139-7d55-40b1-9057-9b977c25c225/public_url" title="Verify CompTIA PenTest+ on Credly">
@@ -105,17 +86,13 @@ TO SET UP YOUR CERTIFICATIONS:
 <a href="https://certified.tcm-sec.com/ffe00ac9-ef0c-4673-af71-0d0780364bff#acc.mGEvp96y" title="Verify TCM Security PHDA">
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/141019420" alt="TCM Security Practical Help Desk Associate" width="120"/>
 </a>
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/DanielAvila-3677/910A3B96BB6CE56?sharingId=9D0A6C3B1827A572" title="Verify Microsoft Azure AI Fundamentals on Credly">
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/DanielAvila-3677/910A3B96BB6CE56?sharingId=9D0A6C3B1827A572" title="Verify Microsoft Azure AI Fundamentals">
   <img src="https://images.credly.com/images/0ff13db7-4089-4287-a23c-114cac456425/converted20260107-30-x01y1x.png" alt="Microsoft Azure AI Fundamentals" width="120"/>
 </a>
 
 </div>
 
----
-
-<div align="center">
-
-**📋 Certification Portfolio**
+<br>
 
 | Certification | Vendor | Domain | Status |
 |---------------|--------|--------|--------|
@@ -126,111 +103,95 @@ TO SET UP YOUR CERTIFICATIONS:
 | **A+** | CompTIA | IT Fundamentals | ✅ Active |
 | **Practical Help Desk Associate** | TCM Security | Help Desk Operations | ✅ Active |
 | **Azure AI Fundamentals (AI-900)** | Microsoft | Cloud AI | ✅ Active |
-
-**Total Certifications: 7** | **Focus Areas:** Penetration Testing • Security Analysis • Blue Team Operations
-
-</div>
-
-```plaintext
-🎯 Currently pursuing: Linux+, PJPT, RHCSA
-📅 Career Path: Building expertise in offensive & defensive security
-```
+| **Linux+ · PJPT · RHCSA** | CompTIA / TCM / Red Hat | Linux & Pentest | 🔄 In Progress |
 
 </details>
 
 ---
 
-```bash
-TheSTIGMan@GitHub:~$ ls -la ~/projects/
-```
-
 <details>
-<summary><b>🔐 Featured Security Projects</b></summary>
+<summary><b>🔐 Featured Projects</b></summary>
 <br>
 
-### 🛠️ Active Repositories
-
-#### **[linux-stig-automation](https://github.com/TheSTIGMan/linux-stig-automation)** `[In Development]`
-```bash
-drwxr-xr-x  5 root root 4096 Feb 27 2026 .
 ```
-Automated DISA STIG compliance checking and remediation for RHEL/Ubuntu systems
-- ✅ Automated audit scripts for 50+ STIG controls
-- ✅ Before/after compliance reporting
-- ✅ Remediation playbooks with rollback capability
-- 🔧 Technologies: Bash, Python, Ansible
+drwxr-xr-x  TheSTIGMan/linux-stig-automation  [IN DEVELOPMENT]
+```
+**[linux-stig-automation](https://github.com/TheSTIGMan/linux-stig-automation)** — DISA STIG compliance automation for RHEL/Ubuntu.
+- Automated audit scripts covering 50+ STIG controls
+- Before/after compliance reporting with evidence capture
+- Remediation playbooks with rollback capability
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 
 ---
 
-#### **[rhel8-STIG_hardening-vulnerability-report](https://github.com/TheSTIGMan/TheSTIGMan/blob/main/RHEL8STIG_VulnerabilityReport/RHEL8%20STIG%20and%20Vulnerability%20Report.md)**
-```bash
-drwxr-xr-x  4 root root 4096 Mar 12 2026 .
 ```
-RHEL 8 hardening project aligned with DISA standards
-- DISA STIG compliance scan for RHEL 8
-- Authenticated Scan via Tenable
-- STIG Implementation & Vulnerability Remediation
-- Failed Login Investigation with KQL
+drwxr-xr-x  TheSTIGMan/rhel8-STIG_hardening-vulnerability-report  [COMPLETE]
+```
+**[rhel8-STIG_hardening-vulnerability-report](https://github.com/TheSTIGMan/TheSTIGMan/blob/main/RHEL8STIG_VulnerabilityReport/RHEL8%20STIG%20and%20Vulnerability%20Report.md)** — RHEL 8 hardening + Tenable scan + KQL investigation.
+- DISA STIG compliance scan and remediation for RHEL 8
+- Authenticated vulnerability scan via Tenable
+- Failed-login investigation built with KQL
+
+![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=flat&logo=redhat&logoColor=white)
+![Nessus](https://img.shields.io/badge/Tenable_Nessus-00417B?style=flat&logo=tenable&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 ---
 
-#### [STIG GPT (Windows 11)](STIG%20GPT%20Windows%2011/STIG%20GPT%20Windows%2011.md)
-```bash
-drwxr-xr-x  3 root root 4096 Jan  14 2026 .
 ```
-Custom GPT tutor for Windows 11 DISA STIG education.
-- 🛡️ Explains complex STIG rules in plain English.
-- 🔍 Retrieves live data from stigaview.com for accuracy.
-- 🧠 Teaches what each control does, why it matters, and how to fix it.
-- 🧩 Designed for cybersecurity students and training labs.
+drwxr-xr-x  TheSTIGMan/STIG-GPT-Windows-11  [COMPLETE]
+```
+**[STIG GPT (Windows 11)](STIG%20GPT%20Windows%2011/STIG%20GPT%20Windows%2011.md)** — Custom GPT tutor for Windows 11 STIG education.
+- Explains complex STIG rules in plain English
+- Pulls live data from stigaview.com for accuracy
+- Teaches what each control does, why it matters, and how to fix it
+
+![GPT](https://img.shields.io/badge/Custom_GPT-412991?style=flat&logo=openai&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_11-0078D4?style=flat&logo=windows&logoColor=white)
 
 ---
 
-#### [vulnerability-audits-remediation](https://github.com/TheSTIGMan/vulnerability-audits-remediation/blob/main/VulnerabilityAssessmentRemediationReportDA-01.md)
-```bash
-drwxr-xr-x  6 root root 4096 Feb 27 2026 .
 ```
-Collection of vulnerability audits and remediations
-- Vulnerability scans using Tenable Nessus
-- Authenticated scans
-- Unauthenticated scans
+drwxr-xr-x  TheSTIGMan/vulnerability-audits-remediation  [COMPLETE]
+```
+**[vulnerability-audits-remediation](https://github.com/TheSTIGMan/vulnerability-audits-remediation/blob/main/VulnerabilityAssessmentRemediationReportDA-01.md)** — Tenable Nessus vulnerability audits.
+- Authenticated and unauthenticated Nessus scans
+- Documented findings with remediation steps
+- Reproducible assessment methodology
+
+![Nessus](https://img.shields.io/badge/Tenable_Nessus-00417B?style=flat&logo=tenable&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 </details>
 
 ---
 
-```bash
-TheSTIGMan@GitHub:~$ cat /etc/skills.conf
-```
-
 <details>
-<summary><b>⚙️ Technical Skills & Tools</b></summary>
+<summary><b>⚙️ Skills & Tools</b></summary>
 <br>
 
 ```ini
-[Operating Systems]
+[Operating_Systems]
 Linux_Distros = RHEL, CentOS, Ubuntu, Debian
-Focus = Server hardening, security configuration
-Proficiency = CLI-first approach, systemd, auditd
 
-[Security & Compliance]
+[Security_&_Compliance]
 Standards = DISA STIGs, CIS Benchmarks, NIST 800-53
-Focus_Areas = System hardening, vulnerability management, audit & compliance
-Experience = Configuration baselines, security validation
 
-[Scripting & Automation]
-Languages = Bash, Python, PowerShell
-Use_Cases = Compliance automation, security auditing, reporting
+[Scripting_&_Automation]
+Languages = Bash, Python
 
-[Security Tools]
-Tenable Nessus
-Microsoft Defender for Endpoint
-Microsoft Sentinel
-Kusto Query Language (KQL)
+[Security_Tools]
+Tools = Tenable Nessus, Microsoft Defender, Microsoft Sentinel, KQL
 
-[Blue Team Operations]
-Skills = Threat detection, log analysis, incident response procedures
-Learning = Detection engineering, SIEM queries, threat hunting
+[Blue_Team_Operations]
+Skills = Threat detection, log analysis, incident response
+
+[Aviation_Cybersecurity]
+Focus = In Progress
+Context = MS Aviation Cybersecurity (ERAU, in progress) | Military aircraft maintenance background
 ```
 
 <div align="center">
@@ -239,85 +200,21 @@ Learning = Detection engineering, SIEM queries, threat hunting
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=redhat&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00417B?style=flat&logo=tenable&logoColor=white)
+![Sentinel](https://img.shields.io/badge/Sentinel-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 </div>
 
 </details>
-
----
-
-```bash
-TheSTIGMan@GitHub:~$ tail -f ~/current_focus.log
-```
-
-<details>
-<summary><b>📡 Current Activities</b></summary>
-<br>
-
-```log
-[2026-01-07 14:30:22] Building reproducible STIG compliance labs
-[2026-01-07 14:30:22] Documenting hardening procedures with clear evidence
-```
-
-### 🎯 Short-term Goals
-- [ ] Build portfolio demonstrating security engineering skills
-
-### 🚀 Learning Path
-- Detection engineering and threat hunting
-
-</details>
-
----
-
-```bash
-TheSTIGMan@GitHub:~$ cat /var/log/approach.log
-```
-
-<details>
-<summary><b>🎓 My Security Philosophy</b></summary>
-<br>
-
-```markdown
-┌─ Security Approach ──────────────────────────────────────┐
-│                                                          │
-│  "Security through proper configuration, not obscurity"  │
-│                                                          │
-│  Core Principles:                                        │
-│  ├─ Automated validation & testing                       │
-│  ├─ Documentation-driven development                     │
-│  └─ Continuous improvement mindset                       |
-│                                                          |
-│                                                          │
-│                                                          │
-│  Every project includes:                                 │
-│  • Clear documentation                                   │
-│  • Reproducible steps                                    │
-│  • Testing procedures                                    │
-│  • Lessons learned                                       │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
-</details>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheSTIGMan&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSTIGMan&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9)
-
-</div>
 
 ---
 
 ## 📬 Establish Connection
 
 ```bash
-TheSTIGMan@GitHub:~$ netcat -lv contact_methods
+root@TheSTIGMan:~$ netcat -lv contact_methods
+listening on [any] 31337 ...
 ```
 
 <div align="center">
@@ -329,32 +226,20 @@ TheSTIGMan@GitHub:~$ netcat -lv contact_methods
 | 🌐 Portfolio | [Visit site](YOUR-PORTFOLIO-HERE) | `LISTENING` |
 | 💬 GitHub | [@TheSTIGMan](https://github.com/TheSTIGMan) | `ACTIVE` |
 
-**Open to:** Collaboration • Entry-level security roles • Learning opportunities
-
-</div>
-
----
-
-```bash
-TheSTIGMan@GitHub:~$ echo "Thanks for visiting! Feel free to explore my repos and reach out."
-TheSTIGMan@GitHub:~$ exit
-```
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════╗
-║  Connection closed by remote host.    ║
-║  Session terminated successfully.     ║
-╚═══════════════════════════════════════╝
-```
-
-**⭐ Star repos if you find them useful | 🍴 Fork to contribute | 📫 Reach out to collaborate**
-
 </div>
 
 ---
 
 <div align="center">
-<sub>Last login: Wednesday, January 7, 2026 | System hardened | All STIG controls verified</sub>
+
+```
++=======================================+
+|  Connection closed by remote host.    |
+|  Session terminated successfully.     |
+|  All STIG controls verified.          |
++=======================================+
+```
+
+<sub>Last login: System hardened | SYSTEMS: HARDENED | Clearance: ACTIVE</sub>
+
 </div>
